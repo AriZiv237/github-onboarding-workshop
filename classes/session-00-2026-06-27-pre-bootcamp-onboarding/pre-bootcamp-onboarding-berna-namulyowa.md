@@ -1,52 +1,44 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
----
+# My Notes — BERNA NAMULYOWA
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
-
--
--
--
+-How to create a repository and consider basic properties like visibility (Private/Public) and README files.
+-How to create folders and files.
+-How to commit changes and always write clear comments describing what was done.
+-Forking a repository, collaborating, and contributing changes back to
 
 ---
 
 ## Lab / Hands-On Work
 
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+-I selected the working folder for the class, which also contained a subfolder for the task session.
+-I downloaded the task to my PC and renamed it, making sure to keep the .md extension.
+-I forked the main community repo, then navigated to the correct folder to upload my work.
+-Inside the folder, I used the "Upload file" option to upload the downloaded file.
+-After selecting "Edit," I worked on the assignment.
 
 ### What I did
-
+I removed the placeholder comments in the file and added my own work.
+Once I finished editing, I clicked "Commit changes".
+I then submitted the work by clicking "Contribute," which opened a pull request prompt. I added a title and description before submitting.
 
 ### What happened / Result
+The work uploaded successfully with no conflicts.
 
 
 ### Challenges I faced
-
-
----
+Navigating between the different steps/commands took some getting used to
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
 
-
----
+Learning how to use GitHub and share my work with others.
 
 ## Questions I Still Have
 
 <!-- Anything you want to follow up on or ask the mentor -->
-
--
--
 
 ---
 
@@ -54,8 +46,6 @@
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
--
 
----
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Berna Namulyowa · nbernah*
