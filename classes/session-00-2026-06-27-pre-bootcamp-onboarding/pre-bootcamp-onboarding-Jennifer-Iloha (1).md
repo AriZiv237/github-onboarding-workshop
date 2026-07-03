@@ -49,5 +49,5 @@ It was a great introduction to the program. I now have a better understanding of
 * Microsoft Learn SC-500 learning materials and program resources shared during the orientation.
 
 
-*Submitted by: \[Jennifer Iloha] · \[Jennifer Iloha]*
+*Submitted by: \[Jennifer Iloha] · \[Jennifer-Iloha]*
 
