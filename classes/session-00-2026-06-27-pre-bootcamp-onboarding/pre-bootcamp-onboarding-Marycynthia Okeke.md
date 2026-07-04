@@ -1,51 +1,45 @@
-# My Notes — [Oluharaotu Alexander Onyekachi 
+# My Notes — Marycynthia Okeke
 
 
 ---
 
 ## Key Concepts I Learned
 
-create my first GitHub account 
-
--
--
--
+I learned how to edit files directly on GitHub, which was a new experience for me since I am more familiar with making edits locally using Visual Studio Code before pushing changes to GitHub.
 
 ---
 
 ## Lab / Hands-On Work
 
-created my first GitHub account 
-I fork the repo to enable me add my work
-downloaded the file to onboard 
+I created my own copy of the class notes from the Microsoft-Naija-Security-Usergroup GitHub repository
+I customized them for my personal learning and submission.
 
 ### What I did
-assignment submission 
-
-
+Forked the Microsoft-Naija-Security-Usergroup repository to my GitHub account.
+Downloaded the template file to my local computer.
+Edited the file and uploaded the updated version to my GitHub repository.
+Committed the changes to save and track my work.
 
 ### What happened / Result
-successful work submission 
+I successfully uploaded, customized, and committed my notes to my GitHub repository, making them ready for submission.
 
 
 
 ### Challenges I faced
-difficulty in navigating around but persistence lead me through.
-
+I was initially a little confused about the difference between working in the forked repository and the original repository, particularly where changes should be made and submitted.
+My first contribution was rejected few minutes ago because of merge conflicts. 
 
 ---
 
 ## My Takeaways
-
-
-kept trying until I got it right
+This exercise introduced me to editing and managing files directly on GitHub. It expanded my understanding of GitHub workflows and gave me confidence in using the platform beyond basic repository management.
 
 
 ---
 
 ## Questions I Still Have
 
-<!-- Anything you want to follow up on or ask the mentor -->
+None at the moment.
 
 -
 -
@@ -60,4 +54,4 @@ kept trying until I got it right
 
 ---
 
-*Submitted by: [Oluharaotu Alexander] · [stalexoluh]*
+*Submitted by: Marycynthia Okeke · Nechy-Okeke*
