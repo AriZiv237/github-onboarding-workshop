@@ -54,4 +54,4 @@ focus and persistence
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [Oluharaotu Alexander Onyekachi] · [stalexoluh]*
