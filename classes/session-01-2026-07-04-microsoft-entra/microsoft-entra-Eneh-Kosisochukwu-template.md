@@ -20,12 +20,25 @@ Microsoft 365 Teams Developer Portal
 
 ### What happened / Result
 - first obtained a free API key from the NASA API portal
-
-![alt text](image.png)
+<img width="1626" height="470" alt="image" src="https://github.com/user-attachments/assets/65c6fa23-9a0b-4fc8-b102-0c9bbe7a8254" />
 
 - Registered the NASA API key in the Microsoft 365 Vault.
+<img width="1626" height="470" alt="image" src="https://github.com/user-attachments/assets/8f0ae4da-3df1-42c7-b54b-30feadf85ae8" />
+
 - Verified that the API key is securely stored in the Microsoft 365 Vault and is not exposed in the application.
+  <img width="1818" height="264" alt="image" src="https://github.com/user-attachments/assets/d257c5e3-ce9c-4dfd-9ef7-b19122b72482" />
+
+  
 - Confirmed that the API plugin references the **API Key Registration ID** instead of the actual API key.
+  <img width="1938" height="408" alt="image" src="https://github.com/user-attachments/assets/da583385-dbb8-4744-9d43-6b616a134000" />
+
+- Confirmed that the API is actually working as intended
+<img width="497" height="301" alt="{A6896D4C-0B01-4CBB-92A7-00E6918BB6B9}" src="https://github.com/user-attachments/assets/dc473e85-90c9-4a35-8b89-bc4d535a946a" />
+
+- Completed the Module
+  
+<img width="2428" height="1304" alt="image" src="https://github.com/user-attachments/assets/3ab74b01-c7b5-4115-b6e6-d4bbe5ea391d" />
+
 
 ## Outcome
 The NASA API key was successfully registered in the Microsoft 365 Vault. An API Key Registration ID was generated, enabling Microsoft 365 Copilot to securely retrieve the API key at runtime and authenticate requests to the protected API without exposing sensitive credentials.
