@@ -1,21 +1,15 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
----
+# My Notes — [Tomilola Osukoya]
 
 ## Key Concepts I Learned
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
--
+- Declarative agents in Microsoft 365 Copilot are AI-powered assistants designed for specific business scenarios using predefined instructions.
+- Declarative agents can integrate with external APIs to retrieve information and perform actions outside Microsoft 365.
+- APIs can be secured using API Keys or OAuth authentication methods.
+- Microsoft 365 Copilot supports API keys passed as a JSON Web Token (JWT), query string parameter, or custom header.
+- API keys and OAuth credentials should be stored securely in the Microsoft 365 Vault rather than hard-coded into applications.
+- Proof Key for Code Exchange (PKCE) strengthens OAuth security by protecting the authorisation code exchange process.
 
 ---
 
@@ -24,38 +18,36 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
+- Studied two API authentication methods: API Key authentication and OAuth authentication.
 
 ### What happened / Result
 
-
+- Understood the differences between API Key authentication and OAuth authentication.
+- Learned why sensitive credentials should never be stored directly in application code.
+  
 ### Challenges I faced
 
-
+- Still trying to navigate the Lab activities, at least build something with it
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-
-
+- I learned that while API keys are simple to use, OAuth provides stronger security 
+- I also learned the importance of storing secrets securely in Microsoft 365 Vault and enabling PKCE to improve OAuth security.
 ---
 
 ## Questions I Still Have
 
 <!-- Anything you want to follow up on or ask the mentor -->
-
--
--
-
+- None
 ---
 
 ## Resources I Found Useful
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
--
+- Microsoft Learn
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [Tomilola Osukoya] · [Tomilola]*
