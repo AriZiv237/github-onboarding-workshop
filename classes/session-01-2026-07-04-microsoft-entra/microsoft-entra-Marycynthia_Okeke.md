@@ -2,13 +2,11 @@
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
-
-* I learnt that securing API integrations for Microsoft 365 Copilot declarative agents using two common authentication methods: API keys and OAuth 2.0.
-* API key authentication provides a simple way for an application to access an API by sending a unique key with each request,to protect sensitive credentials.
-* I learnt that API keys should never be stored directly in source code, instead, they should be securely managed through services such as Azure Key Vault.
-* API keys are convenient to use thanks to their simplicity. To call an API secured with an API key, all you need to do is to include the API key in the API request. The API then validates the key and either handles the request or rejects it with an authentication or authorization error. This simplicity comes however at a cost. API keys don't authenticate the user which means that the API can't act on the user's behalf. All users calling the API with the same API key, have the same permissions.
-
+*I learnt about Declarative Agents for Microsoft 365. It lets you create AI-powered assistants that are optimized for some specific scenarios
+*I also learnt about APIs and API Keys. API Keys They are the arbitrary strings that the owners use to grant anyone access to the API. It is best secured in a storage location in MS365 called 'Vault', which allows you to securely manage your API keys without public exposure. I also learnt how to call the API by including the API keys in the API requests
+* I also learnt that MS 365 Copilot supports passing API keys as Json Web Token, Query String Parameter and Custom Header
+* I also learnt about another method of securing APIs called OAuth. It is the industry standard protocol for authorization. It secures access to resources using access Tokens
+I also learned about PKCE (Proof Key for Code Exchange); it is provided as an option to enable when configuring OAuth for your plugin. It adds an extra security layer to your app with minimal overhead.
 \---
 
 ## Lab / Hands-On Work
@@ -58,5 +56,5 @@ An API key is a secret value that you should never share publicly. When you buil
 
 \---
 
-*Submitted by: Mathias Eleluwor · Mattech-lab*
+*Submitted by: Marycynthia Okeke · Nechy-Okeke*
 
